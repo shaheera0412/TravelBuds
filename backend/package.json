@@ -1,0 +1,27 @@
+{
+  "name": "tomatao-capstone-2",
+  "version": "1.0.0",
+  "description": "Travel and Tours E-Commerce Booking API",
+  "main": "app.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "Marjohn Tomatao",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.3.1",
+    "react-scripts": "^5.0.1",
+    "validator": "^13.9.0",
+    "yup": "^1.2.0"
+  }
+}

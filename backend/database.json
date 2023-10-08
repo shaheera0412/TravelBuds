@@ -1,0 +1,101 @@
+[
+    {
+        "destination": "Pakistan",
+        "destinationTourPackages": [
+            {
+                "bookings": {
+                    "bookingId": []
+                },
+                "experiences": {
+                    "experienceId": []
+                },
+                "_id": "64ccdb76646e9e4d60f37246",
+                "destination": "Pakistan",
+                "packageDuration": "3D2N",
+                "tourStarts": "2023-08-17T00:00:00.000Z",
+                "tourEnds": "2023-08-20T00:00:00.000Z",
+                "basePrice": 3000,
+                "itinerary": [
+                    {
+                        "day1": "3:00AM Pick up at the Hotel, Land travel from Puerto Princesa City- Buliluyan Port, 9:00AM ETA at Buliluyan Port, Patongong Island, 11AM Lunch, Tangkahan Island, Patawan Island/Dolphin Island, 3PM Snacks, Balabac Town Proper at 5PM, 6PM Dinner",
+                        "day2": "6AM Breakfast, 7AM Island Hopping, Nasubata Snorkeling area, 11AM Lunch, ONOK Island, 3PM Snacks, Back to Balabac Town Proper at 5PM, 6PM Dinner",
+                        "day3": "6AM Breakfast, Check out from Lodge, 7AM Island Hopping, Candaraman Island (leaves at 9AM), Buliluyan Port at 11AM, Travel back to PPC, Boat travel from Balabac to Buliluyan then land travel to PUERTO PRINCESA CITY",
+                        "_id": "64ccdb76646e9e4d60f37247"
+                    }
+                ],
+                "inclusions": "2 Nights Accommodation in Balabac Town Proper, Van transfer (PPC-Buliluyan Port), Private Boat Transfer from Buliluyan-Balabac, Private Boat Tour, 3 Days Island Hopping Tour, All Entrances Included, Fullboard Meals, Travel Insurance",
+                "exclusions": "Meals during Land travel, Hotel in Puerto Princesa, Airfare",
+                "isActive": true,
+                "travelPlan": "with-guests",
+                "isTopDestination": true,
+                "availableSlots": 15,
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "destination": "Cebu",
+        "destinationTourPackages": [
+            {
+                "bookings": {
+                    "bookingId": []
+                },
+                "experiences": {
+                    "experienceId": []
+                },
+                "_id": "64ccb78c2b11158df1b90b6d",
+                "destination": "Cebu",
+                "packageDuration": "3D2N",
+                "tourStarts": "2023-09-18T00:00:00.000Z",
+                "tourEnds": "2023-09-21T00:00:00.000Z",
+                "basePrice": 3300,
+                "itinerary": [
+                    {
+                        "day1": "MOUNTAIN/CITY TOUR, 10,000 Roses, CCLEX (longest bridge), Sirao Flower Farm, Temple of Leah, Taoist Temple, La Vie Parisienne, House of lechon for lunch (on pax account), Cebu Heritage Monument, Magellan's Cross, Sto. Niño Church, Shamrock Factory, Souvenir Shop, Taboan Market (dried fish)",
+                        "day2": "6:00AM Breakfast, MOALBOAL AND KAWASAN TOUR, Panagsama Beach, Sardines Run, Turtle Encounter, Coral Garden, Kawasan Falls, Canyoneering with lunch (optional)",
+                        "day3": "6:00Am Breakfast, OSLOB AND SUMILON TOUR, Whaleshark Watching (optional), Sumilon Island, Oslob Heritage Park, Boljoon Church, Simala Church, Carcar Pasalubong Stop, End of tour",
+                        "_id": "64ccb78c2b11158df1b90b6e"
+                    }
+                ],
+                "inclusions": "2 Nights at Express Inn or similar, Air-conditioned transportation during the tour, All entrances, boat and environmental fees, FREE USE of underwater camera and drybags, FREE USE of snorkeling gears and vests",
+                "exclusions": "Excluding airfare, boatfare and meals unless stated",
+                "isActive": true,
+                "travelPlan": "with-guests",
+                "isTopDestination": true,
+                "availableSlots": 15,
+                "__v": 0
+            },
+            {
+                "bookings": {
+                    "bookingId": [
+                        "64ccc21c7f48ede55c0be821"
+                    ]
+                },
+                "experiences": {
+                    "experienceId": []
+                },
+                "_id": "64ccc21c7f48ede55c0be81c",
+                "destination": "Cebu",
+                "packageDuration": "3D2N",
+                "tourStarts": "2023-07-06T00:00:00.000Z",
+                "tourEnds": "2023-07-09T00:00:00.000Z",
+                "basePrice": 3300,
+                "itinerary": [
+                    {
+                        "day1": "MOUNTAIN/CITY TOUR, 10,000 Roses, CCLEX (longest bridge), Sirao Flower Farm, Temple of Leah, Taoist Temple, La Vie Parisienne, House of lechon for lunch (on pax account), Cebu Heritage Monument, Magellan's Cross, Sto. Niño Church, Shamrock Factory, Souvenir Shop, Taboan Market (dried fish)",
+                        "day2": "6:00AM Breakfast, MOALBOAL AND KAWASAN TOUR, Panagsama Beach, Sardines Run, Turtle Encounter, Coral Garden, Kawasan Falls, Canyoneering with lunch (optional)",
+                        "day3": "6:00Am Breakfast, OSLOB AND SUMILON TOUR, Whaleshark Watching (optional), Sumilon Island, Oslob Heritage Park, Boljoon Church, Simala Church, Carcar Pasalubong Stop, End of tour",
+                        "_id": "64ccb78c2b11158df1b90b6e"
+                    }
+                ],
+                "inclusions": "2 Nights at Express Inn or similar, Air-conditioned transportation during the tour, All entrances, boat and environmental fees, FREE USE of underwater camera and drybags, FREE USE of snorkeling gears and vests",
+                "exclusions": "Excluding airfare, boatfare and meals unless stated",
+                "isActive": true,
+                "travelPlan": "with-guests",
+                "isTopDestination": true,
+                "availableSlots": 15,
+                "__v": 0
+            }
+        ]
+    }
+]
